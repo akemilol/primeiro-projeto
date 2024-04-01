@@ -56,3 +56,12 @@ nav {
     border: 2px solid #000;
     margin: 20px;
 }
+
+button {
+    background-color: blue;
+    color: white;
+}
+
+.rodape {
+    border: solid 2px red;
+}
