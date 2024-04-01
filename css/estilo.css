@@ -24,6 +24,10 @@ ul .link {
 
 }
 
+nav {
+    font-weight: bolder;
+}
+
 #cabecalho {
     background-color: blue;
 }
