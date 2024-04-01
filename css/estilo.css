@@ -24,11 +24,16 @@ ul .link {
 
 }
 
+p {
+    color: #318021;
+}
+
 #conteudo {
     line-height: 1.5;
 }
 #contact {
     border: solid 1px gray;
+    padding: 10px;
 }
 
 nav {
