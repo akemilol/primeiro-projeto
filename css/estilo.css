@@ -1,0 +1,41 @@
+
+/* Tag */
+h1 {
+    color: #318021;
+}
+
+/* Class */
+.link {
+    color: #318021;
+}
+
+ul .link {
+    color: #e8240e;
+    /* border: 2px solid #e8240e; */
+    display: inline;
+    margin: 0 3%;
+
+    /* Nesting links */
+    a{
+        text-decoration: none;
+        color: #e8240e;
+    }
+
+}
+
+#cabecalho {
+    background-color: blue;
+}
+
+#menu ul{
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+/* ID */
+#container {
+    width: 80%;
+    height: 100%;
+    border: 2px solid #000;
+    margin: 0 auto;
+}
