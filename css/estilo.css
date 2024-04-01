@@ -27,7 +27,9 @@ ul .link {
 #conteudo {
     line-height: 1.5;
 }
-
+#contact {
+    border: solid 1px gray;
+}
 
 nav {
     font-weight: bolder;
